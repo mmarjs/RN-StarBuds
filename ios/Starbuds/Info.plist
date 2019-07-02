@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Starbuds</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleGetInfoString</key>
+	<string></string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb1493568040665395</string>
+				<string>starbuds</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>12</string>
+	<key>Fabric</key>
+	<dict>
+		<key>APIKey</key>
+		<string>08a0c5190cc4cb0827586ed89f7b7cffde340cbb</string>
+		<key>Kits</key>
+		<array>
+			<dict>
+				<key>KitInfo</key>
+				<dict/>
+				<key>KitName</key>
+				<string>Crashlytics</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FacebookAppID</key>
+	<string>1493568040665395</string>
+	<key>FacebookDisplayName</key>
+	<string>Starbuds</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fb-messenger-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+		<string>starbuds</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Uses Bluetooth to access device bluetooth</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Uses Calandar to get date</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Uses Camera to get user's picture</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Uses user's current location to find near by locations</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Your message to user when the microphone is accessed for the first time</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Uses Photo Library to get user's picture</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Uses Photo Library to get user's picture</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Uses Speech Recording to record voice.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>OpenSans-Regular.ttf</string>
+		<string>SF-UI-Display-Regular.otf</string>
+		<string>SFUIText-Regular.ttf</string>
+		<string>Mark Simonson - Proxima Nova Alt Black-webfont.ttf</string>
+		<string>OpenSans-Bold.ttf</string>
+		<string>SourceSansPro-Regular.otf</string>
+		<string>SourceSansPro-Bold.otf</string>
+		<string>Mark Simonson - Proxima Nova Alt Bold-webfont.ttf</string>
+		<string>Mark Simonson - Proxima Nova Alt Condensed Semibold-webfont.ttf</string>
+		<string>Mark Simonson - Proxima Nova Alt Regular-webfont.ttf</string>
+		<string>Mark Simonson - Proxima Nova ScOsf Thin-webfont.ttf</string>
+		<string>Mark Simonson - Proxima Nova Semibold-webfont.ttf</string>
+		<string>Mark Simonson - Proxima Nova Thin-webfont.ttf</string>
+		<string>ProximaNova-BlackIt.otf</string>
+		<string>ProximaNova-Bold.otf</string>
+		<string>ProximaNova-BoldIt.otf</string>
+		<string>ProximaNova-Light.otf</string>
+		<string>ProximaNova-LightIt.otf</string>
+		<string>ProximaNova-Reg.otf</string>
+		<string>ProximaNova-RegIt.otf</string>
+		<string>ProximaNova-Sbold.otf</string>
+		<string>ProximaNova-SboldIt.otf</string>
+		<string>ProximaNova-Thin.otf</string>
+		<string>ProximaNova-ThinIt.otf</string>
+		<string>ProximaNova-Xbold.otf</string>
+		<string>ProximaNova-XboldIt.otf</string>
+		<string>proximanova-black-webfont.ttf</string>
+		<string>proximanova-bold-webfont.ttf</string>
+		<string>proximanova-light-webfont.ttf</string>
+		<string>proximanova-reg-webfont.ttf</string>
+		<string>proximanova-sbold-webfont.ttf</string>
+		<string>proximanova-thin-webfont.ttf</string>
+		<string>proximanova-xbold-webfont.ttf</string>
+		<string>ProximaNova-Medium.ttf</string>
+		<string>ProximaNova-Medium.otf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Zocial.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

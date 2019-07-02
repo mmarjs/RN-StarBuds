@@ -1,0 +1,69 @@
+{
+  "_from": "react-native-google-places-autocomplete",
+  "_id": "react-native-google-places-autocomplete@1.3.2",
+  "_inBundle": false,
+  "_integrity": "sha512-T92u0EOMR7o53udTYEotH8IE76See/v8lgWyLS+X6kHlvSVFneg7mednKF4kP1VhDfTJMBlchP4SR80OhdaZeA==",
+  "_location": "/react-native-google-places-autocomplete",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-google-places-autocomplete",
+    "name": "react-native-google-places-autocomplete",
+    "escapedName": "react-native-google-places-autocomplete",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-google-places-autocomplete/-/react-native-google-places-autocomplete-1.3.2.tgz",
+  "_shasum": "746caffc254de9c90a939b512d6872d12b14e58a",
+  "_spec": "react-native-google-places-autocomplete",
+  "_where": "/Users/Rupal.Patel/projects/starbuds",
+  "author": {
+    "name": "Farid from Safi"
+  },
+  "bugs": {
+    "url": "https://github.com/FaridSafi/react-native-google-places-autocomplete/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "prop-types": "^15.5.10",
+    "qs": "^5.2.0"
+  },
+  "deprecated": false,
+  "description": "Customizable Google Places autocomplete component for iOS and Android React-Native apps",
+  "devDependencies": {
+    "eslint": "^1.9.0",
+    "eslint-config-airbnb": "^1.0.0",
+    "eslint-plugin-react": "^3.9.0"
+  },
+  "homepage": "https://github.com/FaridSafi/react-native-google-places-autocomplete#readme",
+  "keywords": [
+    "autocomplete",
+    "google",
+    "places",
+    "react-component",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "GooglePlacesAutocomplete.js",
+  "name": "react-native-google-places-autocomplete",
+  "peerDependencies": {
+    "react-native": ">= 0.46"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaridSafi/react-native-google-places-autocomplete.git"
+  },
+  "scripts": {
+    "test": "./node_modules/eslint/bin/eslint.js GooglePlacesAutocomplete.js"
+  },
+  "version": "1.3.2"
+}

@@ -1,0 +1,69 @@
+{
+  "_from": "react-native-video-player",
+  "_id": "react-native-video-player@0.8.5",
+  "_inBundle": false,
+  "_integrity": "sha512-KwUz3viREiEeBn8yt108KhG30/js0snmySdAeW4rBDZYBA3zaVCbIL5qrznMFtHpWIq6SZ9NdjCdzClg4NPJLA==",
+  "_location": "/react-native-video-player",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-video-player",
+    "name": "react-native-video-player",
+    "escapedName": "react-native-video-player",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-video-player/-/react-native-video-player-0.8.5.tgz",
+  "_shasum": "ad0e76ea3d6506f0d1923586a1a1c927d02d01c0",
+  "_spec": "react-native-video-player",
+  "_where": "/Users/Rupal.Patel/projects/starbuds-rn",
+  "author": {
+    "name": "Corné Dorrestijn",
+    "email": "contact@corne.info"
+  },
+  "bugs": {
+    "url": "https://github.com/cornedor/react-native-video-player/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A video player for React Native with controls",
+  "devDependencies": {
+    "eslint": "^3.4.0",
+    "eslint-config-airbnb": "^10.0.1",
+    "eslint-plugin-import": "^1.14.0",
+    "eslint-plugin-jsx-a11y": "^2.2.1",
+    "eslint-plugin-react": "^6.2.0"
+  },
+  "homepage": "https://github.com/cornedor/react-native-video-player#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-video-player",
+  "peerDependencies": {
+    "prop-types": "*",
+    "react": "*",
+    "react-native": "*",
+    "react-native-vector-icons": ">= 2.1.0",
+    "react-native-video": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cornedor/react-native-video-player.git"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.8.5"
+}

@@ -1,0 +1,63 @@
+{
+  "_from": "react-native-camera",
+  "_id": "react-native-camera@0.12.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Ja0/cfiaE/p8qbNpvRu/r6gaJqpXsZyVWO0g8s3yrdC/JgyMMMrzemGmptSCdkYvrfuEN8pga94O+a07uD4i3w==",
+  "_location": "/react-native-camera",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-camera",
+    "name": "react-native-camera",
+    "escapedName": "react-native-camera",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-camera/-/react-native-camera-0.12.0.tgz",
+  "_shasum": "51afa8acf1696d9d973074b6454c5ba2cce6ac18",
+  "_spec": "react-native-camera",
+  "_where": "/Users/Nakul.Kundaliya/Documents/ReactNative/Starbuds/sprint1",
+  "author": {
+    "name": "Lochlan Wansbrough",
+    "email": "lochie@live.com",
+    "url": "http://lwansbrough.com"
+  },
+  "bugs": {
+    "url": "https://github.com/lwansbrough/react-native-camera/issues"
+  },
+  "bundleDependencies": false,
+  "collective": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/react-native-camera",
+    "logo": "https://opencollective.com/opencollective/logo.txt"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "deprecated": false,
+  "description": "A Camera component for React Native. Also reads barcodes.",
+  "homepage": "https://github.com/lwansbrough/react-native-camera",
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "camera",
+    "qr",
+    "code",
+    "barcode"
+  ],
+  "license": "MIT",
+  "name": "react-native-camera",
+  "nativePackage": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwansbrough/react-native-camera.git"
+  },
+  "version": "0.12.0"
+}

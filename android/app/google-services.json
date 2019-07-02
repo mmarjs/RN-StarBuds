@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "456933032214",
+    "firebase_url": "https://starbuds-chat.firebaseio.com",
+    "project_id": "starbuds-chat",
+    "storage_bucket": "starbuds-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456933032214:android:9163cb55e76ee0c1",
+        "android_client_info": {
+          "package_name": "com.starbuds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456933032214-8vin248filrnvpfomqrbd7415ip4ad3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starbuds",
+            "certificate_hash": "285527c053ce6297d07c9142c0d31250a172b082"
+          }
+        },
+        {
+          "client_id": "456933032214-vl7pko7obfmcfmvc6v5kfckfjgkvmjnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzaw55iZPzuobJxRQQLK2dmJt8pSDk3sk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456933032214-64rbj2eup6vj5ut7c7dfnuogfsfscfcp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.simform.StarbudsMobileApp"
+              }
+            },
+            {
+              "client_id": "456933032214-vl7pko7obfmcfmvc6v5kfckfjgkvmjnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

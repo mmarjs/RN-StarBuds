@@ -1,0 +1,77 @@
+{
+  "_args": [
+    [
+      "react-native-image-cropper@0.4.0",
+      "/Users/nakul.kundaliya/startbuds-react-native"
+    ]
+  ],
+  "_from": "react-native-image-cropper@0.4.0",
+  "_id": "react-native-image-cropper@0.4.0",
+  "_inBundle": false,
+  "_integrity": "sha1-4bA89lwsS/owlKEOf0UBWlq5it0=",
+  "_location": "/react-native-image-cropper",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-image-cropper@0.4.0",
+    "name": "react-native-image-cropper",
+    "escapedName": "react-native-image-cropper",
+    "rawSpec": "0.4.0",
+    "saveSpec": null,
+    "fetchSpec": "0.4.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-image-cropper/-/react-native-image-cropper-0.4.0.tgz",
+  "_spec": "0.4.0",
+  "_where": "/Users/nakul.kundaliya/startbuds-react-native",
+  "author": {
+    "name": "Kristoffer Klevenberg"
+  },
+  "bugs": {
+    "url": "https://github.com/stoffern/react-native-image-cropper/issues"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "dependencies": {
+    "gl-react": "^2.2.8",
+    "gl-react-image": "0.0.2",
+    "gl-react-native": "^2.38.0"
+  },
+  "description": "Crop image in React Native using pan to move, pinch to zoom -> capture to file or base64",
+  "devDependencies": {
+    "cz-conventional-changelog": "^1.2.0",
+    "eslint": "^3.11.1",
+    "eslint-plugin-react": "^6.7.1",
+    "semantic-release": "^6.3.2"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "homepage": "https://github.com/stoffern/react-native-image-cropper#readme",
+  "keywords": [
+    "imagecropper",
+    "image",
+    "crop",
+    "react-native",
+    "gl-react-native",
+    "image-croppper"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "react-native-image-cropper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoffern/react-native-image-cropper.git"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post",
+    "test": "eslint ."
+  },
+  "version": "0.4.0"
+}
