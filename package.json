@@ -12,7 +12,7 @@
     "gl-react": "2.3.1",
     "gl-react-native": "2.47.0",
     "lodash": "4.17.4",
-    "moment": "2.22.0",
+    "moment": "2.29.2",
     "path-parser": "3.0.1",
     "prop-types": "15.6.0",
     "react": "16.0.0-alpha.12",
