@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "async": "2.5.0",
+    "async": "3.2.2",
     "babel-plugin-transform-remove-console": "6.8.5",
     "gl-react": "2.3.1",
     "gl-react-native": "2.47.0",
